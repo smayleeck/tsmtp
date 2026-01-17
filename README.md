@@ -1,7 +1,7 @@
 # Teknik Servis Müşteri Takip Programı
 
 
-Son zamanlarda kendi ihtiyaçlarım doğrultusunda ve mevcut kullandığımız programın hem eskiliğinden olsun hem de yetersizliğinden olsun boş vakitlerimde ChatGPT, Grok ve Gemini yapay zekalarının da yardımıyla bir teknik servis müşteri takip programı geliştirdim. 
+Son zamanlarda kendi ihtiyaçlarım doğrultusunda ve mevcut kullandığımız programın hem eskiliğinden olsun hem de yetersizliğinden olsun boş vakitlerimde ChatGPT, Grok, Gemini ve özellikle Antigravity yapay zekalarının da yardımıyla bir teknik servis müşteri takip programı geliştirdim. 
 
 Program açıldığında, kullanacağı musteriler.db dosyasını programın bulunduğu klasöre oluşturmakta. Demo olduğu için toplamda 10 müşteri ve 10 servis kaydı oluşturulabiliyor.
 
