@@ -1,7 +1,7 @@
 {
-    "version": "2.1.0",
-    "release_date": "2026-01-20",
-    "download_url": "https://github.com/smayleeck/teknik-servis-musteri-takip/releases/download/musteri-takip-v0.4/TeknikServis.exe",
+    "version": "0.5.0",
+    "release_date": "2026-01-22",
+    "download_url": "https://github.com/smayleeck/tsmtp/releases/download/musteri-takip-v0.5/teknikservis.exe",
     "changelog": [
         "Kasa takibi modülü eklendi",
         "Termal yazıcı desteği eklendi",
