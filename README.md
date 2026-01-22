@@ -24,11 +24,16 @@ Program açıldığında, kullanacağı musteriler.db dosyasını programın bul
    - Depo Yönetimi (listeye ekleme yapılabilir)
    - Etiket Bas'tan etiket basılabilir. (Ayarlar panelinden ölçüleri ayarlanabiliyor.)
      
-5. Hatırlatıcılar paneli
+
+4. Kasa paneli
+   - Güncel bakiye, günlük para giriş-çıkış kaydı ekleme.
+   - Tarihler arası para giriş-çıkış kayıtlarını görme.
+     
+6. Hatırlatıcılar paneli
    - Servis kayıtları panelinden eklenen hatırlatıcı bu panele eklenir. Hatırlatıcı günü geldiğinde Windows bildirimi hatırlatıcı silinene kadar her dakika tetiklenir.
       - Bu paneli yapmamın temel sebebi su arıtma müşterilerinin periyodik bakımlarını takip etmek içindi. Ama periyodik klima bakımlarının da takip edilmesi için ideal.
         
-6. Ayarlar paneli
+7. Ayarlar paneli
    - Genel ayarlar paneli
      - Program adı değiştirme, 220x100 logo ekleme, program ikonu değiştirme
    - Görünüm paneli
@@ -40,8 +45,10 @@ Program açıldığında, kullanacağı musteriler.db dosyasını programın bul
    - Excel'den müşteri aktarımı
    - Lisans paneli
      - Programı demo sürümden çıkarmak için gereken Makine ID ve Lisans anahtarları bölümleri bulunmakta.
+   - Güncelleme paneli
+     - Güncelleme geldiğinde programın exe'sini değiştirmeye gerek kalmadan, güncelleme paneli ile son sürüme yükseltme.
      
-7. Güncel döviz kuru paneli
+8. Güncel döviz kuru paneli
    - Merkez bankası verilerini alıyor.
   
 
