@@ -6,7 +6,8 @@
         "Termal yazıcı desteği kaldırıldı.",
         "Dosyalar tsmtp klasörüne taşındı.",
         "Çeşitli veritabanı iyileştirmeleri yapıldı.",
-        "Güncel kurlar paneli düzenlendi."
+        "Güncel kurlar paneli düzenlendi.",
+        "Açılışta güncelleme kontrolü eklendi",
     ],
     "mandatory": false,
     "min_version": "1.0.0",
