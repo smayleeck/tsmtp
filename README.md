@@ -53,15 +53,24 @@ Program açıldığında, kullanacağı musteriler.db dosyasını programın bul
   
 
 ### Programdan görüntüler
-<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/e692e900-ec38-4b21-98f3-2d6c95c05362" />
 
-<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/2c405e05-e3bd-4685-9ee5-bc848cdffacb" />
+<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/20128301-c633-4b85-87bb-b651765edd9c" />
 
-<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/0363a414-fffe-43be-9446-a57a805273f1" />
+<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/3870efc6-9f92-4059-81c1-8568f1876564" />
 
-<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/fae07fd0-2fc9-458f-804c-f5b893e48de1" />
+<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/31d504ea-7227-475f-be2e-62edbdf8ef5e" />
 
-<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/db78758a-58fd-47ca-a8f9-b0d54bc85b87" />
+<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/b4d15d6b-14c1-4c35-a191-123451129b67" />
 
-<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/a3ee6450-2f17-4fbd-9f1e-ab604dd59de7" />
+<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/677b4041-7b31-412b-88bb-6a52e2e4dca2" />
+
+<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/9859cb17-da78-4244-8de6-172d8bed7850" />
+
+<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/9ca55e42-a3aa-4da4-ad14-1871dc9936ee" />
+
+
+
+
+
+
 
